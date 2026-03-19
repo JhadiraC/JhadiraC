@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=550&height=50&lines=Hola!+Soy+Jhadira+Coa;Futura+Ing.+de+Sistemas;Entusiasta+desarrollando+UX+%F0%9F%8E%A8" alt="Typing SVG" />
+ 🌸 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=550&height=50&lines=Hola!+Soy+Jhadira+Coa;Futura+Ing.+de+Sistemas;Entusiasta+desarrollando+UX+%F0%9F%8E%A8" alt="Typing SVG" /> 
 </div>
 
 ---
@@ -7,20 +7,20 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>¿Quién soy?</h3>
+      <h3>🌸¿Quién soy?</h3>
       <p>Estudiante de 4to año apasionada por la intersección entre el <b>Frontend</b> y la <b>Inteligencia Artificial</b>. Mi enfoque principal es crear experiencias digitales que no solo sean visualmente atractivas, sino técnicamente robustas y automatizadas.</p>
       <br>
-      <img src="https://i.imgflip.com/65efzo.gif" width="100%" />
+      <img src="[https://github.com/JhadiraC/JhadiraC/blob/main/f46ba208-063b-4410-8afd-1a97013a286c%20(1).png]" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <h3>Áreas de Especialización</h3>
+      <h3>🌟 Áreas de Especialización</h3>
       <ul>
         <li><b>UX/UI:</b> Interfaces modernas, accesibles y minimalistas.</li>
         <li><b>Clean Architecture:</b> Lógica de programación escalable.</li>
         <li><b>AI Automation:</b> Optimización de flujos con modelos de IA.</li>
       </ul>
       <hr>
-      <h3>Stack Tecnológico</h3>
+      <h3>🌸 Stack Tecnológico</h3>
       <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
         <img width="10" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 📂 Proyectos Destacados 🌟
+##🌟 Proyectos Destacados 
 
 | Áreas de Enfoque | Proyecto & Descripción | Enlace |
 | :--- | :--- | :--- |
@@ -59,12 +59,7 @@
 ## 📬 Conectemos
 
 <p align="center">
-  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" width="280">
+  <a href="mailto:jhadirajazmincoapalo2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="right">
