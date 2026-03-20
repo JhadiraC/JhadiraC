@@ -10,7 +10,7 @@
       <h3>🌸¿Quién soy?</h3>
       <p>Estudiante de 4to año apasionada por la intersección entre el <b>Frontend</b> y la <b>Inteligencia Artificial</b>. Mi enfoque principal es crear experiencias digitales que no solo sean visualmente atractivas, sino técnicamente robustas y automatizadas.</p>
       <br>
-      <img src="[]" width="100%" />
+      <img width="1024" height="1536" alt="images" src="https://github.com/user-attachments/assets/2cbf89fc-aa5a-48a5-b2a4-bc326f7ecb06" width="100px" />
     </td>
     <td width="50%" valign="top">
       <h3>🌟 Áreas de Especialización</h3>
@@ -43,6 +43,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 <h3>🌟 Proyectos Destacados </h3>
