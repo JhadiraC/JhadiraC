@@ -10,7 +10,7 @@
       <h3>🌸¿Quién soy?</h3>
       <p>Estudiante de 4to año apasionada por la intersección entre el <b>Frontend</b> y la <b>Inteligencia Artificial</b>. Mi enfoque principal es crear experiencias digitales que no solo sean visualmente atractivas, sino técnicamente robustas y automatizadas.</p>
       <br>
-      <img src="[https://github.com/JhadiraC/JhadiraC/blob/main/f46ba208-063b-4410-8afd-1a97013a286c%20(1).png]" width="100%" />
+      <img src="[]" width="100%" />
     </td>
     <td width="50%" valign="top">
       <h3>🌟 Áreas de Especialización</h3>
@@ -45,8 +45,7 @@
 </table>
 
 ---
-
-##🌟 Proyectos Destacados 
+<h3>🌟 Proyectos Destacados </h3>
 
 | Áreas de Enfoque | Proyecto & Descripción | Enlace |
 | :--- | :--- | :--- |
@@ -56,7 +55,7 @@
 | **Empresa-SKM** | Proyecto de Listado de Empleados de la empresa SKM | [🔗Ver](https://github.com/JhadiraC/Empresa-SKM) |
 ---
 
-## 📬 Conectemos
+## 📬 Contacto
 
 <p align="center">
   <a href="mailto:jhadirajazmincoapalo2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
